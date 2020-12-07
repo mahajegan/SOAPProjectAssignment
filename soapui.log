@@ -1,0 +1,3 @@
+2020-12-07 16:06:42,786 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-07 16:06:42,809 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [AutomationTestCase], time taken: 130226ms, status: FINISHED
+2020-12-07 16:06:42,812 INFO  [SoapUITestCaseRunner] Project [SOAP_Batch1] finished with status [FINISHED] in 181581ms
